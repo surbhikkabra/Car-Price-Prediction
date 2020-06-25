@@ -15,7 +15,7 @@ To model the price of cars with the available independent variables. It will be 
 
 
 
-#Column Names
+# Column Names
 - Car_ID Unique id of each observation (Interger)
 Symboling Its assigned insurance risk rating, A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe.(Categorical)
 - carCompany Name of car company (Categorical)
